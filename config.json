@@ -1,0 +1,17 @@
+{
+  "title": "小柳ロウ 配信スケジュール",
+  "keywords": [],
+  "ignoreTags": [
+    "配信",
+    "告知"
+  ],
+  "fullPages": 20,
+  "channels": [
+    {
+      "handle": "@nemukoneko_2222",
+      "name": "自分のチャンネル",
+      "own": true
+    }
+  ],
+  "memos": []
+}
